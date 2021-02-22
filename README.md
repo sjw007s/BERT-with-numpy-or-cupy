@@ -1,6 +1,5 @@
 # BERT-with-numpy-or-cupy
 E-mail: sjw007s@korea.ac.kr
-
 BERT with numpy or cupy // BERT without frameworks.
 
 This is a code that implements the BERT in the paper below with numpy or cupy. Devlin, Jacob, et al. "Bert: Pre-training of deep bidirectional transformers for language understanding." arXiv preprint arXiv:1810.04805 (2018). Perhaps this is the first publicly available code to implement the BERT without frameworks. TensorFlow and Pytorch can implement the BERT, but it makes all the arrays to see how the BERT works in detail. It reproduces weight generation, forward propagation, and back propagation. It was confirmed that 'is' and 'are' are going to a close position (data included, English data). I think it will be useful for those who want to acquire the ability to implement artificial neural networks without the frameworks. The code has been transformed using https://github.com/KONANtechnology/Academy.ALZZA.
