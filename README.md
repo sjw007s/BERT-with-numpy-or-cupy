@@ -1,6 +1,5 @@
 # BERT-with-numpy-or-cupy
 E-mail: sjw007s@korea.ac.kr
-BERT with numpy or cupy
 
 BERT with numpy or cupy // BERT without frameworks.
 
